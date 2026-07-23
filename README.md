@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="etc/kau-plane.png" width="100%" style="border-radius: 10px;" alt="Korea Aerospace University" />
+<img src="etc/city.png" width="100%" style="border-radius: 10px;" />
 
 # Hi, I'm Eunsu Noh
 
