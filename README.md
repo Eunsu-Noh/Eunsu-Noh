@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="etc/city.png" width="100%" style="border-radius: 10px;" />
+<img src="etc/kau-plane.png" width="100%" style="border-radius: 10px;" alt="Korea Aerospace University" />
 
 # Hi, I'm Eunsu Noh
 
@@ -16,8 +16,9 @@
 
 <p align="center">
    <strong>Undergraduate Researcher @ Quantum AI Lab, Korea Aerospace University</strong><br>
+   <em>(Apr 2025 – Jul 2026, 15 Months)</em><br><br>
   Majoring in <strong>Software Engineering</strong>, I am actively building my foundation in <strong>Quantum Machine Learning (QML)</strong>, <strong>Computer Vision</strong>, and <strong>Deep Learning Optimization</strong>.<br>
-  I am passionate about developing scalable hybrid classical-quantum models and applying AI to real-world industrial challenges.<br>
+  I am passionate about developing scalable hybrid classical-quantum models and applying AI to real-world industrial challenges.
 </p>
 
 <br>
@@ -30,12 +31,13 @@
 
 ## 🏆 Key Projects & Awards
 
-| **Project / Competition** | **Description & Role** |
+| **Category** | **Project / Description & Role** |
 | :--- | :--- |
-| **AI Interviewer Agent** | **Grand Prize (1st Place)** - Developed a real-time conversational agent using **Google ADK** and multimodal LLM pipelines. |
-| **Global Quantum AI Challenge** | **Bronze Prize (5th/200 Teams)** - Built a VQC-based Quantum Neural Network under strict circuit depth constraints. |
-| **Wind Turbine Defect Detection** | Capstone Project - Designed an automated structural anomaly detection pipeline leveraging **YOLO** and **SAM**. |
-| **Hybrid Vision-Quantum Model** | IEIE 2026 Submission - Architecting parameter-efficient quantum ansatz structures for image classification. |
+| 🥇 **Grand Prize** | **Industry-Academic Project (1st Place)**<br>Developed an AI Interviewer Agent utilizing the **Google ADK** and multimodal LLM pipelines. |
+| 🥉 **Bronze Prize** | **The 2nd Global Quantum AI Competition 2026 (5th / 137 Teams)**<br>Built a VQC-based Quantum Neural Network under strict circuit depth constraints. *(Hosted by NORMA, Sponsored by Rigetti Computing)* |
+| 🥉 **Bronze Prize** | **The 1st Quantum AI Hackathon 2025**<br>Demonstrated excellent creativity and technical skills in quantum algorithms. *(Hosted by NORMA)* |
+| 📄 **Publication** | **Summer Annual Conference of IEIE, 2026**<br>Submitted Paper: *"Performance Advantage of Quantum-Classical Hybrid Networks in Few-shot Learning with Frozen Backbone"* (Computer Vision + VQC Hybrid Model Design) |
+| ⚙️ **Project** | **Wind Turbine Defect Detection (Capstone)**<br>Designed an automated structural anomaly detection pipeline leveraging **YOLO** and **SAM**. |
 
 <br>
 
@@ -58,64 +60,65 @@
 
 <br>
 
-## 📐 Mathematical Proficiency
+## 📐 Mathematical & Academic Proficiency
 
-My research is grounded in a strong mathematical foundation:
-* **Linear Algebra**: Vector spaces, Matrix decomposition, Eigenvalues/Eigenvectors.
-* **Multivariable Calculus**: Gradients, Partial derivatives for Backpropagation.
-* **Probability & Statistics**: Stochastic processes, Bayesian statistics.
-
-<br>
-
-## 🗂️ Image Folder Structure
-
-Image assets are organized into category folders for easier browsing:
-
-- `2025-quantum-ai-hackerton/`
-- `2026-global-quantum-ai-competition/`
-- `industry-academic-project-ai-agent-develop-grand-prize/`
-- `capstone-project-wind-turbine-defect-object-detection/`
-- `summer-annual-conference-of-ieie-2026/`
-- `etc/`
+My research is grounded in a strong mathematical foundation and academic dedication:
+* **Academic Excellence:** Ranked **1st / 113 students** in the Software Engineering department (4-1 Semester).
+* **Mathematics for AI:** Top performer, ranking **1st / 70** (Final Exam) and **2nd / 70** (Midterm Exam).
+* **Core Foundation:** Highly proficient and deeply interested in **Linear Algebra**, Vector spaces, Multivariable Calculus (Gradients/Backpropagation), and Probability & Statistics.
 
 <br>
+
+---
 
 <div align="center">
   <h2>📸 Academic Gallery & Activities</h2>
-  
+  <p>Images are organized by major milestones and projects.</p>
   <br>
   
-  <!-- 카테고리 1: Awards & Honors -->
-  <h3>🏆 Awards & Honors</h3>
-  <img src="2026-global-quantum-ai-competition/group-photo.jpg" height="280" style="border-radius: 15px; margin: 10px;" alt="2026 Global Quantum AI Competition Group" />
-  <br>
-  <img src="industry-academic-project-ai-agent-develop-grand-prize/grand-prize.png" height="200" style="border-radius: 15px; margin: 10px;" alt="AI Agent Grand Prize Certificate" />
-  <img src="2026-global-quantum-ai-competition/bronze-prize-award-certificate.png" height="200" style="border-radius: 15px; margin: 10px;" alt="2026 Global Quantum AI Competition Certificate" />
-  <img src="2025-quantum-ai-hackerton/bronze-prize-award-certificate.png" height="200" style="border-radius: 15px; margin: 10px;" alt="2025 Quantum AI Hackathon Certificate" />
-  <br>
-  <img src="2026-global-quantum-ai-competition/bronze-prize.png" height="150" style="border-radius: 15px; margin: 10px;" alt="2026 Bronze Prize Board" />
-  <img src="2025-quantum-ai-hackerton/bronze-prize.png" height="150" style="border-radius: 15px; margin: 10px;" alt="2025 Hackathon Prize" />
-
-  <br><br>
-
-  <!-- 카테고리 2: Conferences & Seminars -->
-  <h3>🎤 Conferences & Seminars</h3>
-  <img src="summer-annual-conference-of-ieie-2026/paper.png" height="280" style="border-radius: 15px; margin: 10px;" alt="IEIE Poster Presentation" />
-  <br>
-  <img src="summer-annual-conference-of-ieie-2026/keynote.png" height="200" style="border-radius: 15px; margin: 10px;" alt="IEIE Keynote Presentation" />
-  <img src="etc/2025-quantum-korea-conference.png" height="200" style="border-radius: 15px; margin: 10px;" alt="Quantum Korea 2025 Conference" />
-  <img src="summer-annual-conference-of-ieie-2026/booth.png" height="200" style="border-radius: 15px; margin: 10px;" alt="IEIE Conference Booth" />
+  <!-- 1. 2025 Quantum AI Hackerton -->
+  <h3>1. The 1st Quantum AI Hackathon (2025)</h3>
+  <img src="2025-quantum-ai-hackerton/bronze-prize-award-certificate.png" height="220" style="border-radius: 15px; margin: 10px;" alt="2025 Hackathon Certificate" />
+  <img src="2025-quantum-ai-hackerton/bronze-prize.png" height="220" style="border-radius: 15px; margin: 10px;" alt="2025 Hackathon Bronze Prize" />
   
-  <br><br>
+  <br><br><br>
 
-  <!-- 카테고리 3: Research, Projects & Study -->
-  <h3>🔬 Research, Projects & Study</h3>
+  <!-- 2. 2026 Global Quantum AI Competition -->
+  <h3>2. The 2nd Global Quantum AI Competition (2026)</h3>
+  <img src="2026-global-quantum-ai-competition/group-photo.jpg" height="220" style="border-radius: 15px; margin: 10px;" alt="2026 Global Quantum AI Competition Group" />
+  <img src="2026-global-quantum-ai-competition/bronze-prize-award-certificate.png" height="220" style="border-radius: 15px; margin: 10px;" alt="2026 Competition Certificate" />
+  <br>
+  <img src="2026-global-quantum-ai-competition/bronze-prize.png" height="170" style="border-radius: 15px; margin: 10px;" alt="2026 Bronze Prize Board" />
+  <img src="2026-global-quantum-ai-competition/nvidia-researcher-keynote.png" height="170" style="border-radius: 15px; margin: 10px;" alt="NVIDIA Research Presentation" />
+  <img src="2026-global-quantum-ai-competition/rigetti-qc.png" height="170" style="border-radius: 15px; margin: 10px;" alt="Rigetti QPU Specs" />
+
+  <br><br><br>
+
+  <!-- 3. Industry-Academic Project -->
+  <h3>3. Industry-Academic Project (Grand Prize)</h3>
+  <img src="industry-academic-project-ai-agent-develop-grand-prize/grand-prize.png" height="250" style="border-radius: 15px; margin: 10px;" alt="AI Agent Grand Prize Certificate" />
+
+  <br><br><br>
+
+  <!-- 4. Capstone Project -->
+  <h3>4. Capstone Project: Wind Turbine Defect Detection</h3>
   <img src="capstone-project-wind-turbine-defect-object-detection/result.png" height="200" style="border-radius: 15px; margin: 10px;" alt="Capstone Wind Turbine Defect Detection Result" />
-  <img src="etc/math-study.png" height="200" style="border-radius: 15px; margin: 10px;" alt="Mathematics Study" />
-  <br>
-  <img src="2026-global-quantum-ai-competition/nvidia-researcher-keynote.png" height="180" style="border-radius: 15px; margin: 10px;" alt="NVIDIA Research Presentation" />
-  <img src="2026-global-quantum-ai-competition/rigetti-qc.png" height="180" style="border-radius: 15px; margin: 10px;" alt="Rigetti QPU Specs" />
+
+  <br><br><br>
+
+  <!-- 5. Summer Annual Conference of IEIE, 2026 -->
+  <h3>5. Summer Annual Conference of IEIE (2026)</h3>
+  <img src="summer-annual-conference-of-ieie-2026/paper.png" height="250" style="border-radius: 15px; margin: 10px;" alt="IEIE Poster Presentation" />
+  <img src="summer-annual-conference-of-ieie-2026/keynote.png" height="250" style="border-radius: 15px; margin: 10px;" alt="IEIE Keynote Presentation" />
+  <img src="summer-annual-conference-of-ieie-2026/booth.png" height="250" style="border-radius: 15px; margin: 10px;" alt="IEIE Conference Booth" />
+
+  <br><br><br>
+
+  <!-- 6. Etc -->
+  <h3>6. Etc (Research, Study & Campus)</h3>
+  <img src="etc/2025-quantum-korea-conference.png" height="180" style="border-radius: 15px; margin: 10px;" alt="Quantum Korea 2025 Conference" />
   <img src="etc/qc.png" height="180" style="border-radius: 15px; margin: 10px;" alt="IBM Quantum Computer" />
+  <img src="etc/math-study.png" height="180" style="border-radius: 15px; margin: 10px;" alt="Mathematics Study" />
   <img src="etc/kau-plane.png" height="180" style="border-radius: 15px; margin: 10px;" alt="Campus Night View" />
 
 </div>
