@@ -47,6 +47,7 @@
 | :--- | :--- |
 | **Quantum AI** | • **VQC** (Variational Quantum Circuits)<br>• **QNN** (Quantum Neural Networks)<br>• **Hybrid Classical-Quantum Architectures** |
 | **Computer Vision** | • **Anomaly Detection**<br>• **Object Detection & Segmentation** (YOLO, SAM) |
+| **Generative AI & Autonomous AI Agents** | • **LLM Pipelines**<br>• **Agentic Frameworks** (Google ADK)<br>• **Conversational & Multimodal AI** |
 
 <br>
 
@@ -64,7 +65,7 @@
 
 My research is grounded in a strong mathematical foundation and academic dedication:
 * **Academic Excellence:** Ranked **1st / 113 students** in the Software Engineering department (4-1 Semester).
-* **Mathematics for AI:** Top performer, ranking **1st / 70** (Final Exam) and **2nd / 70** (Midterm Exam).
+* **Mathematics for AI:** Top performer, ranking **1st / 73** (Final Exam) and **2nd / 73** (Midterm Exam).
 * **Core Foundation:** Highly proficient and deeply interested in **Linear Algebra**, Vector spaces, Multivariable Calculus (Gradients/Backpropagation), and Probability & Statistics.
 
 <br>
