@@ -33,7 +33,7 @@
 | **Project / Competition** | **Description & Role** |
 | :--- | :--- |
 | **AI Interviewer Agent** | **Grand Prize (1st Place)** - Developed a real-time conversational agent using **Google ADK** and multimodal LLM pipelines. |
-| **Global Quantum AI Challenge** | **Honorable Mention (5th/200 Teams)** - Built a VQC-based Quantum Neural Network under strict circuit depth constraints. |
+| **Global Quantum AI Challenge** | **Bronze Prize (5th/200 Teams)** - Built a VQC-based Quantum Neural Network under strict circuit depth constraints. |
 | **Wind Turbine Defect Detection** | Capstone Project - Designed an automated structural anomaly detection pipeline leveraging **YOLO** and **SAM**. |
 | **Hybrid Vision-Quantum Model** | IEIE 2026 Submission - Architecting parameter-efficient quantum ansatz structures for image classification. |
 
@@ -70,6 +70,7 @@ My research is grounded in a strong mathematical foundation:
 <div align="center">
   <h3>📸 Gallery</h3>
   
+  <img src="56089_78311_2623.jpg" height="280" style="border-radius: 15px; margin: 10px;" alt="2026 Global Quantum AI Competition Award Ceremony" />
   <img src="me.PNG" height="280" style="border-radius: 15px; margin: 10px;" alt="Me" />
   <img src="conference.PNG" height="280" style="border-radius: 15px; margin: 10px;" alt="Conference" />
   <img src="study.PNG" height="280" style="border-radius: 15px; margin: 10px;" alt="Study" />
