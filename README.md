@@ -21,7 +21,8 @@
 </p>
 
 <br>
-<a href="mailto:여기에_GMAIL_주소를_적으세요"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://eunsu-noh.github.io/"><img src="https://img.shields.io/badge/Study_Log-F5F5DC?style=flat-square&logo=gitbook&logoColor=6b4f2f"/></a>
+<a href="mailto:doctor316@kau.kr"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/eunsu-o-170ab5255/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
 </div>
@@ -68,11 +69,18 @@ My research is grounded in a strong mathematical foundation:
 <br>
 
 <div align="center">
-  <h3>📸 Gallery</h3>
+  <h3>📸 Academic Gallery & Awards</h3>
   
+  <img src="IMG_9121.jpg" height="280" style="border-radius: 15px; margin: 10px;" alt="IEIE Poster Presentation" />
   <img src="56089_78311_2623.jpg" height="280" style="border-radius: 15px; margin: 10px;" alt="2026 Global Quantum AI Competition Award Ceremony" />
-  <img src="me.PNG" height="280" style="border-radius: 15px; margin: 10px;" alt="Me" />
-  <img src="conference.PNG" height="280" style="border-radius: 15px; margin: 10px;" alt="Conference" />
-  <img src="study.PNG" height="280" style="border-radius: 15px; margin: 10px;" alt="Study" />
-  <img src="QC.PNG" height="280" style="border-radius: 15px; margin: 10px;" alt="Quantum Computing" />
+  <img src="IMG_9123.jpg" height="280" style="border-radius: 15px; margin: 10px;" alt="2nd Global Quantum AI Hackathon Bronze Prize" />
+  <img src="IMG_9124.jpg" height="280" style="border-radius: 15px; margin: 10px;" alt="1st Quantum AI Hackathon Bronze Prize" />
+  
+  <br><br>
+
+  <img src="IMG_9126.jpg" height="200" style="border-radius: 15px; margin: 10px;" alt="Bronze Prize $1000" />
+  <img src="IMG_9128.jpg" height="200" style="border-radius: 15px; margin: 10px;" alt="Rigetti QPU Specs Presentation" />
+  <img src="IMG_9127.jpg" height="200" style="border-radius: 15px; margin: 10px;" alt="Quantum Chemistry Application Seminar" />
+  <img src="IMG_9122.jpg" height="200" style="border-radius: 15px; margin: 10px;" alt="SAM Optimization Presentation" />
+  <img src="IMG_9119.jpg" height="200" style="border-radius: 15px; margin: 10px;" alt="IEIE Conference Hall" />
 </div>
