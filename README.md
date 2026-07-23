@@ -21,7 +21,6 @@
 </p>
 
 <br>
-<a href="https://eunsu-noh.github.io/"><img src="https://img.shields.io/badge/Study_Log-F5F5DC?style=flat-square&logo=gitbook&logoColor=6b4f2f"/></a>
 <a href="mailto:doctor316@kau.kr"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/eunsu-o-170ab5255/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
@@ -72,7 +71,7 @@ My research is grounded in a strong mathematical foundation:
   <h3>📸 Academic Gallery & Awards</h3>
   
   <img src="IMG_9121.PNG" height="280" style="border-radius: 15px; margin: 10px;" alt="IEIE Poster Presentation" />
-  <img src="56089_78311_2623.jpg" height="280" style="border-radius: 15px; margin: 10px;" alt="2026 Global Quantum AI Competition Award Ceremony" />
+  <img src="56089_78311_02623_2.JPG" height="280" style="border-radius: 15px; margin: 10px;" alt="2026 Global Quantum AI Competition Award Ceremony" />
   <img src="IMG_9123.PNG" height="280" style="border-radius: 15px; margin: 10px;" alt="2nd Global Quantum AI Hackathon Bronze Prize" />
   <img src="IMG_9124.PNG" height="280" style="border-radius: 15px; margin: 10px;" alt="1st Quantum AI Hackathon Bronze Prize" />
   
