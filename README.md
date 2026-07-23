@@ -89,6 +89,6 @@ My research is grounded in a strong mathematical foundation:
 
   <!-- 3열: 학업 및 양자 컴퓨팅 하드웨어 -->
   <img src="conference.jpg" height="200" style="border-radius: 15px; margin: 10px;" alt="Quantum Korea 2025 Conference" />
-  <img src="QC (1).jpg" height="200" style="border-radius: 15px; margin: 10px;" alt="IBM Quantum Computer" />
-  <img src="study (1).jpg" height="200" style="border-radius: 15px; margin: 10px;" alt="Study & Mathematics" />
+  <img src="QC.jpg" height="200" style="border-radius: 15px; margin: 10px;" alt="IBM Quantum Computer" />
+  <img src="study.jpg" height="200" style="border-radius: 15px; margin: 10px;" alt="Study & Mathematics" />
 </div>
