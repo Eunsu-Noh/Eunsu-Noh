@@ -70,16 +70,25 @@ My research is grounded in a strong mathematical foundation:
 <div align="center">
   <h3>📸 Academic Gallery & Awards</h3>
   
+  <!-- 1열: 주요 수상 내역 및 상장 -->
   <img src="IMG_9121.PNG" height="280" style="border-radius: 15px; margin: 10px;" alt="IEIE Poster Presentation" />
-  <img src="56089_78311_02623.JPG" height="280" style="border-radius: 15px; margin: 10px;" alt="2026 Global Quantum AI Competition Award Ceremony" />
+  <img src="56089_78311_02623_2.JPG" height="280" style="border-radius: 15px; margin: 10px;" alt="2026 Global Quantum AI Competition Award Ceremony" />
   <img src="IMG_9123.PNG" height="280" style="border-radius: 15px; margin: 10px;" alt="2nd Global Quantum AI Hackathon Bronze Prize" />
   <img src="IMG_9124.PNG" height="280" style="border-radius: 15px; margin: 10px;" alt="1st Quantum AI Hackathon Bronze Prize" />
   
   <br><br>
 
+  <!-- 2열: 학술대회 현장 및 세미나 -->
   <img src="IMG_9126.PNG" height="200" style="border-radius: 15px; margin: 10px;" alt="Bronze Prize $1000" />
   <img src="IMG_9128.PNG" height="200" style="border-radius: 15px; margin: 10px;" alt="Rigetti QPU Specs Presentation" />
   <img src="IMG_9127.PNG" height="200" style="border-radius: 15px; margin: 10px;" alt="Quantum Chemistry Application Seminar" />
   <img src="IMG_9122.PNG" height="200" style="border-radius: 15px; margin: 10px;" alt="SAM Optimization Presentation" />
   <img src="IMG_9119.PNG" height="200" style="border-radius: 15px; margin: 10px;" alt="IEIE Conference Hall" />
+  
+  <br><br>
+
+  <!-- 3열: 학업 및 양자 컴퓨팅 하드웨어 -->
+  <img src="conference.jpg" height="200" style="border-radius: 15px; margin: 10px;" alt="Quantum Korea 2025 Conference" />
+  <img src="QC (1).jpg" height="200" style="border-radius: 15px; margin: 10px;" alt="IBM Quantum Computer" />
+  <img src="study (1).jpg" height="200" style="border-radius: 15px; margin: 10px;" alt="Study & Mathematics" />
 </div>
