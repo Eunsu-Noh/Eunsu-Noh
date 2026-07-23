@@ -2,10 +2,10 @@
 
 <img src="KakaoTalk_20251220_230552155_07.png" width="100%" style="border-radius: 10px;" />
 
-# Hi, I'm Eunsu
+# Hi, I'm Eunsu Noh
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Deep+Learning;Quantum+Machine+Learning;Linear+Algebra+%26+Statistics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Deep+Learning;Quantum+Machine+Learning;Computer+Vision" alt="Typing SVG" />
 </a>
 
 <p>
@@ -15,33 +15,40 @@
 <br>
 
 <p align="center">
-   <strong>I am an undergraduate researcher just starting my journey.</strong><br>
-  I am currently building my foundation in <strong>Quantum Optimization</strong>, <strong>Quantum Machine Learning</strong>, and <strong>Deep Learning optimization</strong>.<br>
-  As a beginner, I am eager to learn and grow. I am looking for study communities and welcome connections with anyone interested in these topics.<br>
-  Please feel free to contact me!
+   <strong>Undergraduate Researcher @ Quantum AI Lab, Korea Aerospace University</strong><br>
+  Majoring in <strong>Software Engineering</strong>, I am actively building my foundation in <strong>Quantum Machine Learning (QML)</strong>, <strong>Computer Vision</strong>, and <strong>Deep Learning Optimization</strong>.<br>
+  I am passionate about developing scalable hybrid classical-quantum models and applying AI to real-world industrial challenges.<br>
 </p>
 
 <br>
-<a href="https://eunsu101.github.io/"><img src="https://img.shields.io/badge/Study_Log-F5F5DC?style=flat-square&logo=gitbook&logoColor=6b4f2f"/></a>
-<a href="mailto:doctor031699@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="mailto:여기에_GMAIL_주소를_적으세요"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/eunsu-o-170ab5255/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
 <br>
 
-## Research Interests
+## 🏆 Key Projects & Awards
 
-I am focusing on **Deep Learning optimization** and the potential of **Quantum Machine Learning (QML)**.
-
-| **Domain** | **Key Topics** |
+| **Project / Competition** | **Description & Role** |
 | :--- | :--- |
-| **Deep Learning** | • **ANN Architecture**<br>• **Optimization Algorithms**<br>• **Regularization** |
-| **Quantum AI** | • **VQC** (Variational Quantum Circuits)<br>• **QNN** (Quantum Neural Networks)<br>• **SVM + Quantum Kernel**<br>• **Quantum Embedding** |
+| **AI Interviewer Agent** | **Grand Prize (1st Place)** - Developed a real-time conversational agent using **Google ADK** and multimodal LLM pipelines. |
+| **Global Quantum AI Challenge** | **Honorable Mention (5th/200 Teams)** - Built a VQC-based Quantum Neural Network under strict circuit depth constraints. |
+| **Wind Turbine Defect Detection** | Capstone Project - Designed an automated structural anomaly detection pipeline leveraging **YOLO** and **SAM**. |
+| **Hybrid Vision-Quantum Model** | IEIE 2026 Submission - Architecting parameter-efficient quantum ansatz structures for image classification. |
 
 <br>
 
-## Tech Stack
+## 🔬 Research Interests
+
+| **Domain** | **Key Topics** |
+| :--- | :--- |
+| **Quantum AI** | • **VQC** (Variational Quantum Circuits)<br>• **QNN** (Quantum Neural Networks)<br>• **Hybrid Classical-Quantum Architectures** |
+| **Computer Vision** | • **Anomaly Detection**<br>• **Object Detection & Segmentation** (YOLO, SAM) |
+
+<br>
+
+## 💻 Tech Stack
 
 ### Languages & Frameworks
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/PennyLane-000000?style=for-the-badge&logo=python&logoColor=F59E0B"/> 
@@ -51,21 +58,12 @@ I am focusing on **Deep Learning optimization** and the potential of **Quantum M
 
 <br>
 
-## Mathematical Proficiency
+## 📐 Mathematical Proficiency
 
-My study is grounded in a strong mathematical foundation:
-
+My research is grounded in a strong mathematical foundation:
 * **Linear Algebra**: Vector spaces, Matrix decomposition, Eigenvalues/Eigenvectors.
 * **Multivariable Calculus**: Gradients, Partial derivatives for Backpropagation.
 * **Probability & Statistics**: Stochastic processes, Bayesian statistics.
-
-<br>
-
-## Personal Interests
-
-Beyond research, I find inspiration in:
-* **Skiing**
-* **Classical Music**
 
 <br>
 
@@ -76,12 +74,4 @@ Beyond research, I find inspiration in:
   <img src="conference.PNG" height="280" style="border-radius: 15px; margin: 10px;" alt="Conference" />
   <img src="study.PNG" height="280" style="border-radius: 15px; margin: 10px;" alt="Study" />
   <img src="QC.PNG" height="280" style="border-radius: 15px; margin: 10px;" alt="Quantum Computing" />
-  
-  <br><br>
-
-  <img src="photo.png" height="280" style="border-radius: 15px; margin: 10px;" alt="Exhibition" />
-  <img src="night.png" height="280" style="border-radius: 15px; margin: 10px;" alt="Night View" />
-  <img src="cats.png" height="280" style="border-radius: 15px; margin: 10px;" alt="Cats" />
 </div>
-
-<br>
