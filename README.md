@@ -68,27 +68,41 @@ My research is grounded in a strong mathematical foundation:
 <br>
 
 <div align="center">
-  <h3>📸 Academic Gallery & Awards</h3>
+  <h2>📸 Academic Gallery & Activities</h2>
   
-  <!-- 1열: 주요 수상 내역 및 상장 -->
-  <img src="IMG_9121.PNG" height="280" style="border-radius: 15px; margin: 10px;" alt="IEIE Poster Presentation" />
-  <img src="56089_78311_02623.JPG" height="280" style="border-radius: 15px; margin: 10px;" alt="2026 Global Quantum AI Competition Award Ceremony" />
-  <img src="IMG_9123.PNG" height="280" style="border-radius: 15px; margin: 10px;" alt="2nd Global Quantum AI Hackathon Bronze Prize" />
-  <img src="IMG_9124.PNG" height="280" style="border-radius: 15px; margin: 10px;" alt="1st Quantum AI Hackathon Bronze Prize" />
+  <br>
+  
+  <!-- 카테고리 1: Awards & Honors -->
+  <h3>🏆 Awards & Honors</h3>
+  <img src="2026 Global Quantum AI Competition group photo.jpg" height="280" style="border-radius: 15px; margin: 10px;" alt="2026 Global Quantum AI Competition Group" />
+  <br>
+  <img src="AI agent develop Grand Prize.PNG" height="200" style="border-radius: 15px; margin: 10px;" alt="AI Agent Grand Prize Certificate" />
+  <img src="2026 Global Quantum AI Competition Bronze Prize Certificate.PNG" height="200" style="border-radius: 15px; margin: 10px;" alt="2026 Global Quantum AI Competition Certificate" />
+  <img src="2025 Quantum AI Hackerton Bronze Prize Award Certificate.PNG" height="200" style="border-radius: 15px; margin: 10px;" alt="2025 Quantum AI Hackathon Certificate" />
+  <br>
+  <img src="2026 Global Quantum AI Competition Bronze Prize.PNG" height="150" style="border-radius: 15px; margin: 10px;" alt="2026 Bronze Prize Board" />
+  <img src="2025 Quantum AI Hackerton Bronze Prize.PNG" height="150" style="border-radius: 15px; margin: 10px;" alt="2025 Hackathon Prize" />
+
+  <br><br>
+
+  <!-- 카테고리 2: Conferences & Seminars -->
+  <h3>🎤 Conferences & Seminars</h3>
+  <img src="IEIE Paper.PNG" height="280" style="border-radius: 15px; margin: 10px;" alt="IEIE Poster Presentation" />
+  <br>
+  <img src="IEIE Keynote.PNG" height="200" style="border-radius: 15px; margin: 10px;" alt="IEIE Keynote Presentation" />
+  <img src="2025 Quantum Korea conference.PNG" height="200" style="border-radius: 15px; margin: 10px;" alt="Quantum Korea 2025 Conference" />
+  <img src="IEIE booth.PNG" height="200" style="border-radius: 15px; margin: 10px;" alt="IEIE Conference Booth" />
   
   <br><br>
 
-  <!-- 2열: 학술대회 현장 및 세미나 -->
-  <img src="IMG_9126.PNG" height="200" style="border-radius: 15px; margin: 10px;" alt="Bronze Prize $1000" />
-  <img src="IMG_9128.PNG" height="200" style="border-radius: 15px; margin: 10px;" alt="Rigetti QPU Specs Presentation" />
-  <img src="IMG_9127.PNG" height="200" style="border-radius: 15px; margin: 10px;" alt="Quantum Chemistry Application Seminar" />
-  <img src="IMG_9122.PNG" height="200" style="border-radius: 15px; margin: 10px;" alt="SAM Optimization Presentation" />
-  <img src="IMG_9119.PNG" height="200" style="border-radius: 15px; margin: 10px;" alt="IEIE Conference Hall" />
-  
-  <br><br>
+  <!-- 카테고리 3: Research, Projects & Study -->
+  <h3>🔬 Research, Projects & Study</h3>
+  <img src="Capstone Wind turbine defect Object detection result.png" height="200" style="border-radius: 15px; margin: 10px;" alt="Capstone Wind Turbine Defect Detection Result" />
+  <img src="math study.PNG" height="200" style="border-radius: 15px; margin: 10px;" alt="Mathematics Study" />
+  <br>
+  <img src="2026 Global Quantum AI Competition NVIDIA Research.PNG" height="180" style="border-radius: 15px; margin: 10px;" alt="NVIDIA Research Presentation" />
+  <img src="2026 Global Quantum AI Competition Rigetti QC.PNG" height="180" style="border-radius: 15px; margin: 10px;" alt="Rigetti QPU Specs" />
+  <img src="QC.PNG" height="180" style="border-radius: 15px; margin: 10px;" alt="IBM Quantum Computer" />
+  <img src="KAU plane.PNG" height="180" style="border-radius: 15px; margin: 10px;" alt="Campus Night View" />
 
-  <!-- 3열: 학업 및 양자 컴퓨팅 하드웨어 -->
-  <img src="conference.PNG" height="200" style="border-radius: 15px; margin: 10px;" alt="Quantum Korea 2025 Conference" />
-  <img src="QC.PNG" height="200" style="border-radius: 15px; margin: 10px;" alt="IBM Quantum Computer" />
-  <img src="study.PNG" height="200" style="border-radius: 15px; margin: 10px;" alt="Study & Mathematics" />
 </div>
