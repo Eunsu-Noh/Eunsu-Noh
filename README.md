@@ -72,7 +72,7 @@ My research is grounded in a strong mathematical foundation:
   
   <!-- 1열: 주요 수상 내역 및 상장 -->
   <img src="IMG_9121.PNG" height="280" style="border-radius: 15px; margin: 10px;" alt="IEIE Poster Presentation" />
-  <img src="56089_78311_02623_2.JPG" height="280" style="border-radius: 15px; margin: 10px;" alt="2026 Global Quantum AI Competition Award Ceremony" />
+  <img src="56089_78311_02623.JPG" height="280" style="border-radius: 15px; margin: 10px;" alt="2026 Global Quantum AI Competition Award Ceremony" />
   <img src="IMG_9123.PNG" height="280" style="border-radius: 15px; margin: 10px;" alt="2nd Global Quantum AI Hackathon Bronze Prize" />
   <img src="IMG_9124.PNG" height="280" style="border-radius: 15px; margin: 10px;" alt="1st Quantum AI Hackathon Bronze Prize" />
   
