@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="KakaoTalk_20251220_230552155_07.png" width="100%" style="border-radius: 10px;" />
+<img src="etc/city.png" width="100%" style="border-radius: 10px;" />
 
 # Hi, I'm Eunsu Noh
 
