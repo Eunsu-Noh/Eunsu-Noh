@@ -71,16 +71,16 @@ My research is grounded in a strong mathematical foundation:
 <div align="center">
   <h3>📸 Academic Gallery & Awards</h3>
   
-  <img src="IMG_9121.jpg" height="280" style="border-radius: 15px; margin: 10px;" alt="IEIE Poster Presentation" />
+  <img src="IMG_9121.PNG" height="280" style="border-radius: 15px; margin: 10px;" alt="IEIE Poster Presentation" />
   <img src="56089_78311_2623.jpg" height="280" style="border-radius: 15px; margin: 10px;" alt="2026 Global Quantum AI Competition Award Ceremony" />
-  <img src="IMG_9123.jpg" height="280" style="border-radius: 15px; margin: 10px;" alt="2nd Global Quantum AI Hackathon Bronze Prize" />
-  <img src="IMG_9124.jpg" height="280" style="border-radius: 15px; margin: 10px;" alt="1st Quantum AI Hackathon Bronze Prize" />
+  <img src="IMG_9123.PNG" height="280" style="border-radius: 15px; margin: 10px;" alt="2nd Global Quantum AI Hackathon Bronze Prize" />
+  <img src="IMG_9124.PNG" height="280" style="border-radius: 15px; margin: 10px;" alt="1st Quantum AI Hackathon Bronze Prize" />
   
   <br><br>
 
-  <img src="IMG_9126.jpg" height="200" style="border-radius: 15px; margin: 10px;" alt="Bronze Prize $1000" />
-  <img src="IMG_9128.jpg" height="200" style="border-radius: 15px; margin: 10px;" alt="Rigetti QPU Specs Presentation" />
-  <img src="IMG_9127.jpg" height="200" style="border-radius: 15px; margin: 10px;" alt="Quantum Chemistry Application Seminar" />
-  <img src="IMG_9122.jpg" height="200" style="border-radius: 15px; margin: 10px;" alt="SAM Optimization Presentation" />
-  <img src="IMG_9119.jpg" height="200" style="border-radius: 15px; margin: 10px;" alt="IEIE Conference Hall" />
+  <img src="IMG_9126.PNG" height="200" style="border-radius: 15px; margin: 10px;" alt="Bronze Prize $1000" />
+  <img src="IMG_9128.PNG" height="200" style="border-radius: 15px; margin: 10px;" alt="Rigetti QPU Specs Presentation" />
+  <img src="IMG_9127.PNG" height="200" style="border-radius: 15px; margin: 10px;" alt="Quantum Chemistry Application Seminar" />
+  <img src="IMG_9122.PNG" height="200" style="border-radius: 15px; margin: 10px;" alt="SAM Optimization Presentation" />
+  <img src="IMG_9119.PNG" height="200" style="border-radius: 15px; margin: 10px;" alt="IEIE Conference Hall" />
 </div>
